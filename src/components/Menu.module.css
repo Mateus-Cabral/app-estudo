@@ -1,0 +1,13 @@
+.navItems{
+    display: inline;
+    background-color: rgb(139, 200, 254);
+    padding: 15px;
+}
+
+.navLink{
+    text-decoration: none;
+}
+
+.navLink :visited{
+    color: red;
+}

@@ -1,0 +1,17 @@
+.fraseContainer{
+    background-color: #999;
+    border: 1px solid black;
+}
+
+.fraseContent{
+    color: rgb(10, 165, 87);
+    background-color: #333;
+    margin: 10px;
+}
+
+.input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
